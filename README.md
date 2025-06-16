@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm [Abu Sauban](@Sauban-Git)
-
+# 👋 Hi there, I'm Abu Sauban
 🎯 **Full-Stack Developer | MERN Stack Specialist | AI Enthusiast**
 
 Welcome to my GitHub! I'm a passionate software developer with a solid foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and a growing skillset in **Artificial Intelligence and Machine Learning**. I love building scalable applications, solving real-world problems, and exploring the intersection of web development and AI.
