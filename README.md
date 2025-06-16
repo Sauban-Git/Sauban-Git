@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate software developer with a solid foundatio
 ## 📫 Let's Connect
 
 - 🐦 [Twitter/X](https://twitter.com/Groot_7s)
-- 📧 sauban.ind@gmail.com
+- 📧 [sauban.ind@gmail.com](mailto:sauban.ind@gmail.com)
 
 ---
 
